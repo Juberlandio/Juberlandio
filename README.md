@@ -3,7 +3,7 @@
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/berlantec/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/juberlandioOliveiraOficial/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://juberlandio.santana.js@gmail.com)
-[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/juberlandiooliveira/)
+[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juberlandiooliveira/)
 
 ![Juberlandio GitHub stats](https://github-readme-stats.vercel.app/api?username=juberlandio&show_icons=true&theme=dracula)
 
