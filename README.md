@@ -9,12 +9,11 @@
  </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juberlandio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Juberlandio Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juberlandio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juberlandio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Juberlandio Oliveira github stats" /> 
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juberlandio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
  
 <div align="center">
-### Main skills:
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
