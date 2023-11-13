@@ -8,7 +8,7 @@
  </div>
 
 <div align="center">  
-  <img width="43%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=juberlandio&theme=dracula&hide_border=false" /> 
+  <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=juberlandio&theme=dracula&hide_border=false" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juberlandio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
