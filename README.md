@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3228FA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Juberlandio+Oliveira;I'm+28+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="47%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username}" /> 
+  <img width="47%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=juberlandio&theme=dracula&hide_border=false" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juberlandio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
