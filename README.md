@@ -9,8 +9,8 @@
  </div>
 
 <div align="center">  
-  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juberlandio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Juberlandio Oliveira github stats" /> 
-  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juberlandio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juberlandio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Juberlandio Oliveira github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juberlandio&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 ### Main skills:
