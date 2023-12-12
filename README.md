@@ -26,7 +26,9 @@
 <a href="https://juberlandio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp; 
 <a href="https://instagram.com/berlantec" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp; 
 <a href = "https://juberlandio.santana.js@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp; 
+<a href = "https://juberlandio.santana.js@gmail.com"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>&nbsp; 
 <a href="https://www.linkedin.com/in/juberlandioOliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>&nbsp; 
  </div>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3228FA&height=120&section=footer"/>
+ 
