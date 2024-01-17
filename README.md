@@ -4,6 +4,7 @@
 
 
 <div align="center">  
+  <img width="40%" height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
   <img width="40%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juberlandio&theme=badge&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
