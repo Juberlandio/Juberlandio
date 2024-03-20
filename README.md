@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3228FA&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Juberlandio+Oliveira👋;I'm+from+Brazil;I+have+a+Bachelor's+Degree+in+Information+Systems;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-<img width=51% height=100% src="https://github-readme-streak-stats.herokuapp.com/?user=Juberlandio&theme=dark&hide_border=false"/>
+<!-- <img width=51% height=100% src="https://github-readme-streak-stats.herokuapp.com/?user=Juberlandio&theme=dark&hide_border=false"/> -->
 <img width=51% height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juberlandio&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 
