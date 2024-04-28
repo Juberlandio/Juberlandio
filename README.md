@@ -1,7 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3228FA&height=120&section=header"/>
+<h1  align="center">Hello there! I'm Juberlandio
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3228FA&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Juberlandio+Oliveira👋;I'm+from+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
-
+<p align="center">
+  <a href="https://github.com/artprange/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full Stack%20Developer%20;&font=Roboto%20Code&center=true&width=440&height=45&color=14DBEB&vCenter=true&pause=1500&size=30" /></a>
+</p>
 <div align="center">
 <img width=51% height=100% src="https://github-readme-streak-stats.herokuapp.com/?user=Juberlandio&theme=dark&hide_border=false"/>
 <img width=51% height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juberlandio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
