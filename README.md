@@ -16,7 +16,7 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,sass,tailwind,git,github,figma)](https://skillicons.dev)
 
 ### Backend / Database
- [![Backend Skills](https://skillicons.dev/icons?i=nodejs,nest,c,net,mysql)](https://skillicons.dev)
+ [![Backend Skills](https://skillicons.dev/icons?i=nodejs,nest,cs,net,mysql)](https://skillicons.dev)
 
 ## Contacts:
 <div align="left"> 
