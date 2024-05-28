@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/artprange/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full Stack%20Developer%20;&font=Roboto%20Code&center=true&width=440&height=45&color=14DBEB&vCenter=true&pause=1500&size=30" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full Stack%20Developer%20;&font=Roboto%20Code&center=true&width=440&height=45&color=14DBEB&vCenter=true&pause=1500&size=37" /></a>
 </p>
 <div align="center">
 <img width=51% height=100% src="https://github-readme-streak-stats.herokuapp.com/?user=Juberlandio&theme=dark&hide_border=false"/>
