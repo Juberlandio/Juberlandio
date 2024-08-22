@@ -11,7 +11,6 @@
 </div>
 
 ## Tecnologias que utilizo com frequência ⚡
-
 ### Frontend
 
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,sass,tailwind,git,github,figma)](https://skillicons.dev)
