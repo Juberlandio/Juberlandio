@@ -18,7 +18,7 @@
 
 ### Backend / Database
 
- [![Backend Skills](https://skillicons.dev/icons?i=nodejs,nest,php,laravel,mysql)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nest,php,laravel,mysql)](https://skillicons.dev)
  
 ## Contacts:
 
