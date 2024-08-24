@@ -10,7 +10,7 @@
 <img width=51% height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juberlandio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-## Tecnologias que utilizo com frequência ⚡
+## Tecnologias que utilizo com frequência
 
 ### Frontend
 
