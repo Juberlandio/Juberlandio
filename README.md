@@ -1,14 +1,5 @@
 <h1  align="center">Hello there! I'm Juberlandio
 <p align="center">
-
-
-
-
-
-
-
-
-  
   <a href="https://github.com/artprange/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20Developer%20;&font=Roboto%20Code&center=true&width=440&height=45&color=14DBEB&vCenter=true&pause=1500&size=35" /></a>
 </p>
